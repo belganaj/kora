@@ -17,7 +17,7 @@
         "title":"ترتيب الفرق",
         "provider":"overview",
         "arguments":[
-          "stories.json"
+          "https://raw.githubusercontent.com/belganaj/kora/master/tartib.json"
         ]
       }
     ]
