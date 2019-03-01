@@ -1,1 +1,100 @@
-dsdf
+[
+	{
+    "title":"ترتيب الدوري الاسباني",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/spain.html"
+    ]
+  },
+
+	   {
+    "title":"ترتيب الدوري الانجليزي",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/england.html"
+    ]
+  },
+	
+  {
+    "title":"ترتيب الدوري الايطالي",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/italy.html"
+    ]
+  },
+	
+    {
+    "title":"ترتيب الدوري الفرنسي",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/france.html"
+    ]
+  },
+
+{
+    "title":"ترتيب الدوري الألماني",
+    "provider":"webview",
+  "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/germany.html"
+    ]
+  },
+
+	{
+   "title":"ترتيب الدوري البرتغالي",
+    "provider":"webview",
+      "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/portogale.html"
+    ]
+  },
+  
+    {
+    "title":"ترتيب الدوري الجزائري",
+    "provider":"webview",
+      "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/algeria.html"
+    ]
+  },
+
+  {
+    "title":"ترتيب الدوري المغربي",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/maroc.html"
+    ]
+  },
+
+  {
+    "title":"ترتيب الدوري المصري",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/egypt.html"
+    ]
+  },
+
+  {
+    "title":"ترتيب الدوري السعودي",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/saudi.html"
+    ]
+  },
+
+  {
+    "title":"ترتيب الدوري التونسي",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/tartib/tuns.html"
+    ]
+  }
+]
