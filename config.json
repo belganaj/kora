@@ -34,6 +34,15 @@
         ]
       }
     ,
+        {
+        "title":"كاس امم افريقيا",
+        "provider":"overview",
+        "arguments":[
+          "https://raw.githubusercontent.com/belganaj/kora/master/can2019.json"
+        ]
+      }
+      ,
+      
       {
         "title":"ترتيب الفرق",
         "provider":"overview",
