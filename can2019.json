@@ -1,0 +1,29 @@
+[
+	{
+    "title":"مواعد المباريات والنتائج",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/can2019/arabic/fixtures.html"
+    ]
+  },
+
+	   {
+    "title":"جدول الترتيب",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/can2019/arabic/table.html"
+    ]
+  },
+	
+  {
+    "title":"قائمة الهدافين",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://217.69.12.121/can2019/arabic/hadaf.html"
+    ]
+  }
+	
+]
