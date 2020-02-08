@@ -16,7 +16,7 @@
         "title":"مباريات اليوم",
         "provider":"webview",
         "arguments":[
-          "http://217.69.12.121/cup/live.html"
+          "http://217.69.12.121/cup/livetoday.html"
         ]
       },
       {
