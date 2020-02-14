@@ -12,6 +12,15 @@
           "http://yallalive.men"
         ]
       },
+      
+      { "title":"Youtube Playlist",
+        "provider":"youtube",
+        "arguments":[
+          "UU7V6hW6xqPAiUfataAZZtWA",
+          "playlist"
+        ]
+      }
+      ,
       {
         "title":"مباريات اليوم",
         "provider":"webview",
