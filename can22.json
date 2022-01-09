@@ -1,0 +1,28 @@
+[
+	{
+    "title":"جدول المباريات",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://yallalive.men/live/test/cup-of-nations/matches.html"
+    ]
+  },
+
+	   {
+    "title":"ترتيب المنتخبات",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://yallalive.men/live/test/cup-of-nations/standings.html"
+    ]
+  },
+	
+  {
+    "title":"ترتيب الهدافين",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://yallalive.men/live/test/cup-of-nations/topscores.html"
+    ]
+  } 
+]
