@@ -1,0 +1,28 @@
+[
+	{
+    "title":"مباريات اليوم",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://yallalive.men/livetoday"
+    ]
+  },
+
+	   {
+    "title":"مباريات الغد",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://yallalive.men/tomorrow"
+    ]
+  },
+	
+  {
+    "title":"مباريات الامس",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "http://yallalive.men/yesterday"
+    ]
+  } 
+]
