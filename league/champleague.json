@@ -4,7 +4,7 @@
     "provider":"webview",
     "image":"",
     "arguments":[
-      "https://yallalive.men/livetoday"
+      "https://yallalive.men/live/test/champleague/matches.html"
     ]
   },
 
@@ -13,7 +13,7 @@
     "provider":"webview",
     "image":"",
     "arguments":[
-      "https://yallalive.men/live/test/champleague/topscores.html"
+      "https://yallalive.men/live/test/champleague/standings.html"
     ]
   },
 	
