@@ -1,0 +1,28 @@
+[
+	{
+    "title":"المباريات",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://yallalive.men/live/test/wordcup22/wc_qualification_europe/matches.html"
+    ]
+  },
+
+	   {
+    "title":"ترتيب الفرق",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://yallalive.men/live/test/wordcup22/wc_qualification_europe/standings.html"
+    ]
+  },
+	
+  {
+    "title":"ترتيب الهدافين",
+    "provider":"webview",
+    "image":"",
+    "arguments":[
+      "https://yallalive.men/live/test/wordcup22/wc_qualification_europe/topscores.html"
+    ]
+  } 
+]
