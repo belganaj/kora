@@ -1,0 +1,38 @@
+[
+	{
+    "title":"تصفيات أفريقيا لكأس العالم",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://raw.githubusercontent.com/belganaj/kora/master/league/wordcup22/wc_qualification_africa.json"
+    ]
+  },
+
+	   {
+    "title":"تصفيات أوروبا لكأس العالم",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://raw.githubusercontent.com/belganaj/kora/master/league/wordcup22/wc_qualification_europe.json"
+    ]
+  },
+	
+  {
+    "title":"تصفيات آسيا لكأس العالم",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://raw.githubusercontent.com/belganaj/kora/master/league/wordcup22/wc_qualification_asia.json"
+    ]
+  } 
+  ,
+	
+  {
+    "title":"تصفيات أمريكا الجنوبية لكأس العالم",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://raw.githubusercontent.com/belganaj/kora/master/league/wordcup22/wc_qualification_southamerica.json"
+    ]
+  } 
+]
