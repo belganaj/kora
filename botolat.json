@@ -13,7 +13,7 @@
     "provider":"overview",
     "image":"",
     "arguments":[
-      "https://github.com/belganaj/kora/blob/master/league/caf-champions-league.json"
+      "https://raw.githubusercontent.com/belganaj/kora/master/league/caf-champions-league.json"
     ]
   }
 	
