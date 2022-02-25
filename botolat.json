@@ -1,0 +1,21 @@
+[
+	{
+    "title":"دوري أبطال أوروبا",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://raw.githubusercontent.com/belganaj/kora/master/league/champleague.json"
+    ]
+  },
+
+	   {
+    "title":"دوري ابطال افريقيا",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://github.com/belganaj/kora/blob/master/league/caf-champions-league.json"
+    ]
+  }
+	
+ 
+]
