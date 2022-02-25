@@ -15,7 +15,16 @@
     "arguments":[
       "https://raw.githubusercontent.com/belganaj/kora/master/league/caf-champions-league.json"
     ]
-  }
+  },
+	
+  {
+    "title":"ترتيب الهدافين",
+    "provider":"overview",
+    "image":"",
+    "arguments":[
+      "https://raw.githubusercontent.com/belganaj/kora/master/league/wc22.json"
+    ]
+  } 
 	
  
 ]
