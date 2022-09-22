@@ -15,7 +15,7 @@
       "unity_test": true,
       "unity_banner": "Banner_Android",
       "unity_interstitial": "Interstitial_Android",
-      "ImageBanner": false,
+      "ImageBanner": true,
       "ImageBannerImg": "https://iili.io/s26PXn.png",
       "ImageBannerURL": "https://www.google.fr"
     }
