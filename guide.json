@@ -1,6 +1,9 @@
 {
   "GuideData": {
     "AdsController": {
+      
+      
+      "baseURL": "admob",
       "BannerAd": "admob",
       "InterstitialAd": "admob",
       "NativeAd": "admob",
