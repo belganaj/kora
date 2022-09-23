@@ -18,7 +18,7 @@
       "unity_test": true,
       "unity_banner": "Banner_Android",
       "unity_interstitial": "Interstitial_Android",
-      "ImageBanner": true,
+      "ImageBanner": false,
       "ImageBannerImg": "https://iili.io/s3IJHb.gif",
       "ImageBannerURL": "https://www.google.ru"
     }
