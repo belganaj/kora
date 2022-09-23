@@ -3,7 +3,7 @@
     "AdsController": {
       
       
-      "baseURL": "https://2020.men/",
+      "baseURL": "https://yallalive.men/",
       "BannerAd": "admob",
       "InterstitialAd": "admob",
       "NativeAd": "admob",
