@@ -3,7 +3,7 @@
     "AdsController": {
       
       
-      "baseURL": "https://yallalive.men/",
+      "baseURL": "https://2020.men/",
       "BannerAd": "admob",
       "InterstitialAd": "admob",
       "NativeAd": "admob",
@@ -20,7 +20,7 @@
       "unity_interstitial": "Interstitial_Android",
       "ImageBanner": true,
       "ImageBannerImg": "https://iili.io/s3IJHb.gif",
-      "ImageBannerURL": "https://www.google.fr"
+      "ImageBannerURL": "https://www.google.ru"
     }
   }
 }
